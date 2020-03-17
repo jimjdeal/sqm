@@ -1,0 +1,11 @@
+{
+    "name": "michalpietryka/sqm",
+    "description": "SQM parser",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michal Pietryka",
+            "email": "michalpietryka@outlook.com"
+        }
+    ]
+}
